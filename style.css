@@ -10,7 +10,7 @@
 
 @media screen and (min-width:768px) {
     #sidebar {
-        overflow: hidden;
+        overflow-y: auto;
         padding-top: 29px;
     }
 
